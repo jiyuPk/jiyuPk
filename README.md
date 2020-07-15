@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+```
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -23,3 +24,4 @@ const thai = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+```
