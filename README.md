@@ -1,13 +1,7 @@
-<h2> Hi everyone</h2>
+<h2> Hi, im jiyuPk</h2>
 
+Pronouns: jiyu or GU
+learning: C++, C#, Go, Python, HTML, CSS, Javascript
+technology: unreal engine
 
-about me...  
-
-```javascript
-const JiyuPk = {
-  pronouns: "Jiyu" | "GU",
-  code: [C++, C#, HTML, CSS, Javascript, Python, Go],
-  tools: [unreal engine, ...],
-  
-}
-```
+want learn: Lua
