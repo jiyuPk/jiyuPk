@@ -6,4 +6,4 @@ learning: C++, C#, Go, Python, HTML, CSS, Javascript
 
 technology: unreal engine
 
-want learn: Lua
+want to learn: Lua
