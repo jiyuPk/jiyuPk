@@ -1,9 +1,3 @@
-<h2> Hi, im jiyuPk</h2>
+<h2> C++ 문법 어느정도 아는 GU입니다.</h2>
 
-Pronouns: jiyu or GU
 
-learning: C++, C#, Go, Python, HTML, CSS, Javascript
-
-technology: unreal engine
-
-want to learn: Lua
