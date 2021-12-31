@@ -22,6 +22,4 @@
 
 
 
-## My project must be...
-#### Easy to use core functions 
-#### Maybe difficult to use, but provides all functions 
+## [My Website](http://jiyupk.me/)
