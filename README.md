@@ -20,3 +20,9 @@ I am a student who codes as a hobby.
 ## Ongoing Projects
 * [WEBPO](https://github.com/Deci-space/Webpo) - Powerful bookmark management tool 
 * [MPML](https://github.com/Deci-space/MPML) - Multi Platform Multimedia Library
+* [my_learn](https://github.com/jiyuPk/my_learn/tree/learn_vulkan) - I'm learning vulkan api now
+
+## Planning project 
+* leago - The league of legend player's match history browser 
+* KALEN - Productivity app with all services integrated 
+  * Tordo - The cross-platform Todo App
