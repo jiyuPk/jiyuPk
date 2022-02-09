@@ -26,4 +26,4 @@ I am a student who codes as a hobby.
 ## Planning project 
 * leago - The league of legend player's match history browser 
 * KALEN - Productivity app with all services integrated 
-  * Tordo - The cross-platform Todo App
+  * ToDo - The cross-platform Todo App
